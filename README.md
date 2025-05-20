@@ -9,7 +9,7 @@ Bonjour, je m’appelle Juliette ! 👋
 
 Je suis développeuse web en apprentissage, actuellement focalisée sur le développement front-end.
 
-🌱 J’ai commencé par apprendre HTML et CSS, que je continue d’approfondir, et je me plonge actuellement dans JavaScript.
+🌱 J’ai commencé par apprendre HTML5 et CSS3, que je continue d’approfondir, et je me plonge actuellement dans JavaScript.
 
 🔍 Sur mon GitHub, vous trouverez principalement des projets d’entraînement, des exercices ainsi que quelques petits projets personnels.  
 J’aime créer des choses simples mais fonctionnelles afin de progresser chaque jour.
@@ -30,7 +30,7 @@ Hello, my name is Juliette! 👋
 
 I am a web developer in training, currently focused on front-end development.
 
-🌱 I started by learning HTML and CSS, which I continue to deepen, and I am currently diving into JavaScript.
+🌱 I started by learning HTML5 and CSS3, which I continue to deepen, and I am currently diving into JavaScript.
 
 🔍 On my GitHub, you will mainly find training projects, exercises, and a few personal projects.  
 I enjoy creating simple but functional things to improve every day.
