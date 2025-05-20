@@ -1,16 +1,63 @@
-## Hi there 👋
+# 💫 About Me:
 
-<!--
-**jlepan/jlepan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇫🇷  
+Bonjour, je m’appelle Juliette ! 👋
 
-Here are some ideas to get you started:
+Je suis développeuse web en apprentissage, actuellement focalisée sur le développement front-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 J’ai commencé par apprendre HTML et CSS, que je continue d’approfondir, et je me plonge actuellement dans JavaScript.
+
+🔍 Sur mon GitHub, vous trouverez principalement des projets d’entraînement, des exercices ainsi que quelques petits projets personnels.  
+J’aime créer des choses simples mais fonctionnelles afin de progresser chaque jour.
+
+🔭 Mes objectifs à moyen terme :
+
+- Devenir développeuse fullstack en maîtrisant à la fois le front-end et le back-end  
+- Approfondir JavaScript et découvrir des frameworks front-end  
+- Apprendre les bases du back-end (Node.js, bases de données, etc.)  
+- Construire un portfolio complet et interactif
+
+⚡ N’hésitez pas à parcourir mes projets, et si vous avez des conseils ou des idées, je suis preneuse !
+
+---
+
+🇬🇧  
+Hello, my name is Juliette! 👋
+
+I am a web developer in training, currently focused on front-end development.
+
+🌱 I started by learning HTML and CSS, which I continue to deepen, and I am currently diving into JavaScript.
+
+🔍 On my GitHub, you will mainly find training projects, exercises, and a few personal projects.  
+I enjoy creating simple but functional things to improve every day.
+
+🔭 My medium-term goals:
+
+- Become a fullstack developer by mastering both front-end and back-end  
+- Deepen my knowledge of JavaScript and explore front-end frameworks  
+- Learn the basics of back-end development (Node.js, databases, etc.)  
+- Build a complete and interactive portfolio
+
+⚡ Feel free to browse my projects, and if you have any advice or ideas, I’m all ears!
+
+---
+
+# 💻 Tech Stack:
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliette-lepan/)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=jlepan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jlepan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jlepan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=jlepan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
