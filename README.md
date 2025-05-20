@@ -37,10 +37,10 @@ I enjoy creating simple but functional things to improve every day.
 
 🔭 My medium-term goals:
 
-- Become a fullstack developer by mastering both front-end and back-end  
 - Deepen my knowledge of JavaScript and explore front-end frameworks  
 - Learn the basics of back-end development (Node.js, databases, etc.)  
 - Build a complete and interactive portfolio
+- Become a fullstack developer by mastering both front-end and back-end  
 
 ⚡ Feel free to browse my projects, and if you have any advice or ideas, I’m all ears!
 
