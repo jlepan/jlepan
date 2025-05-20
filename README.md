@@ -16,10 +16,10 @@ J’aime créer des choses simples mais fonctionnelles afin de progresser chaque
 
 🔭 Mes objectifs à moyen terme :
 
-- Devenir développeuse fullstack en maîtrisant à la fois le front-end et le back-end  
 - Approfondir JavaScript et découvrir des frameworks front-end  
 - Apprendre les bases du back-end (Node.js, bases de données, etc.)  
 - Construire un portfolio complet et interactif
+- Devenir développeuse fullstack en maîtrisant à la fois le front-end et le back-end  
 
 ⚡ N’hésitez pas à parcourir mes projets, et si vous avez des conseils ou des idées, je suis preneuse !
 
